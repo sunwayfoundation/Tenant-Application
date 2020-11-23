@@ -1,0 +1,3 @@
+[submodule "Tenent-Application-Backend"]
+	path = Tenent-Application-Backend
+	url = git@github.com:sunwayfoundation/Tenent-Application-Backend.git
